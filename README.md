@@ -38,28 +38,32 @@ The simulation generates:
 
 ---
 
+Your `## ▶️ How to Run` section is clear and accurate! Here's a slightly refined version to make it just a bit more polished and beginner-friendly:
+
+---
+
 ## ▶️ How to Run
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/mdesoky-4473/epsilon-greedy-fintech-vs-banks.git
    cd epsilon-greedy-fintech-vs-banks
    ```
 
-2. Install dependencies (requires Python 3.x):
+2. **Install dependencies** (requires Python 3.x):
 
    ```bash
    pip install numpy pandas matplotlib seaborn
    ```
 
-3. Run the script:
+3. **Launch the notebook:**
 
    ```bash
-   python simulate.py
+   jupyter notebook fintech-discovery-simulation.ipynb
    ```
 
-Or launch the **Jupyter Notebook** for interactive exploration.
+> This will open the notebook in your browser, where you can interact with the simulation, modify parameters, and view charts and outputs.
 
 ---
 
