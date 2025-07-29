@@ -43,7 +43,7 @@ The simulation generates:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/epsilon-greedy-fintech-vs-banks.git
+   git clone https://github.com/mdesoky-4473/epsilon-greedy-fintech-vs-banks.git
    cd epsilon-greedy-fintech-vs-banks
    ```
 
